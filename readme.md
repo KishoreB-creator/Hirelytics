@@ -164,7 +164,7 @@ http://127.0.0.1:8000/docs
 
 ## 👨‍💻 Author
 **Kishore B**  
-B.Tech CSE (AI) — 2nd Year  
+B.Tech CSE (AI) — 3rd Year  
 Hirelytics © 2025
 
 ---
