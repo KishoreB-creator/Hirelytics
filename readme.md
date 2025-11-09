@@ -138,9 +138,6 @@ http://127.0.0.1:8000/docs
 | Metric | Before | After Optimization |
 |--------|---------|--------------------|
 | **Mean Recall@10** | 0.56 | **0.62** |
-| **Avg Response Time** | 2.8 s | **0.9 s** |
-| **Accuracy (Manual Check)** | 68 % | **85 %** |
-| **Startup Time** | 35 s | **12 s** |
 
 ---
 
